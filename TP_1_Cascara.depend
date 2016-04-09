@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1460079730 source:c:\users\rodrigo\desktop\tp_1_cascara\tp_1_cascara\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1459964582 c:\users\rodrigo\desktop\tp_1_cascara\tp_1_cascara\funciones.h
+
+1460134146 source:c:\users\rodrigo\desktop\tp_1_cascara\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1460130070 c:\users\rodrigo\desktop\tp_1_cascara\funciones.h
+
+1460136664 source:c:\users\rodrigo\desktop\roco\tp_1_cascara - copia a quedar\funciones.c
+	<stdio.h>
+	<stdlib.h>
+
+1460136664 source:c:\users\rodrigo\desktop\roco\tp_1_cascara - copia a quedar\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1460136335 c:\users\rodrigo\desktop\roco\tp_1_cascara - copia a quedar\funciones.h
+
+1460139993 source:c:\users\rodrigo\desktop\roco\tp_1_cascara - rodrigo reynaga\funciones.c
+	<stdio.h>
+	<stdlib.h>
+
+1460139910 source:c:\users\rodrigo\desktop\roco\tp_1_cascara - rodrigo reynaga\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1460136335 c:\users\rodrigo\desktop\roco\tp_1_cascara - rodrigo reynaga\funciones.h
+
